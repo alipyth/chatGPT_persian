@@ -1,3 +1,7 @@
+#pip install pyChatGPT==0.4.3.3 or > 0.4.3.3
+#pip install streamlit
+#pip install deep_translator
+
 import streamlit as st
 from deep_translator import GoogleTranslator
 from pyChatGPT import ChatGPT
